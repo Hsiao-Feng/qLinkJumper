@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "qLinkJumper",
+    "version": "1.1",
+  
+    "description": "自动跳转QQ链接拦截页面。",
+  
+    "icons": {
+      "200": "logo_qLinkJumper.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://c.pc.qq.com/middlem.html?*"],
+        "js": ["jump.js"]
+      }
+    ]
+  
+  }
