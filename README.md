@@ -21,7 +21,7 @@ Firefox：
 
 [https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#安装](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#安装)
 
-Chrome：
+Chrome / Edge ：
 
 1. 将应用或扩展程序文件夹保存到测试设备上。
 2. 转到`chrome://extensions/`。
