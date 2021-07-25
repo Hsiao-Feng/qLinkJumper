@@ -24,7 +24,7 @@ Firefox：
 Chrome / Edge ：
 
 1. 将应用或扩展程序文件夹保存到测试设备上。
-2. 转到`chrome://extensions/`。
+2. 转到`chrome://extensions/`（Edge 是 `edge://extensions/`）。
 3. 在右上角，开启**开发者模式**。
 4. 点击**加载已解压的扩展程序**。
 5. 找到并选择应用或扩展程序文件夹。
