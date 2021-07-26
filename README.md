@@ -11,7 +11,7 @@ QQ/TIM“管家拦截页面”链接自动跳转。
 
 **Firefox 用户**
 
-使用扩展商店安装：https://addons.mozilla.org/zh-CN/firefox/addon/qlinkjumper/ （审核中）
+使用扩展商店安装：https://addons.mozilla.org/zh-CN/firefox/addon/qlinkjumper/
 
 **开发者模式**
 
